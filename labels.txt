@@ -1,0 +1,2 @@
+0 Con gafas
+1 Sin gafas
